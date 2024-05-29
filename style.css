@@ -1,3 +1,7 @@
 body {
   background: rgb(211, 196, 196) ;
 }
+
+img {
+  max-width: 100px;
+}
